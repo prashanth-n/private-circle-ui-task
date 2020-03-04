@@ -1,0 +1,78 @@
+.main-container{
+    width: 100%;
+    .filter_container{
+        height: 80px;
+        background-color: #f5f5f5;
+        padding: 10px;
+        display: flex;
+        /* justify-content: space-around; */
+        align-items: center;
+        .saved-list{
+            background-color: #002b42;
+            color: #fff;
+            /* height: 40px; */
+            border: none;
+            padding: 10px;
+            width: 150px;
+            border-radius: 3px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            justify-content: space-evenly;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+        .normal-button{
+            border: none;
+            margin-left: 20px;
+            background:none;
+            padding: 10px;
+            width: 150px;
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+    }
+    .search_container{
+        display: flex;
+        justify-content: flex-end;
+        margin-left: auto;
+        width: 40%;
+        .search-text-box{
+            border-radius:2px;
+            height: 40px;
+            padding-left: 10px;
+            border: 1px solid #e2e2e2;
+            width: 100%;
+        }
+    }
+    .table-container{
+        width: 75%;
+        .table{
+            font-size: 0.875rem;
+            .icon{
+                margin-left: 5px;
+                margin-right: 5px;
+            }
+            .pointer{
+                cursor: pointer;
+            }
+            .company-details-btn{
+                background: none;
+                color: #2f7c97;
+                border: none;
+                width: 70px;
+            }
+            .btn-selected{
+                background: #fff;
+                border-bottom: 2px solid #13132c;
+                outline: none;
+            }
+        }
+        .selected{
+            background-color: #f5f5f5;
+        }
+    }
+    .table-detail-container{
+        display: flex;
+    }
+}

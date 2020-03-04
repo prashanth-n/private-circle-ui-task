@@ -1,0 +1,114 @@
+[
+    {
+        "date": 1583307804077,
+        "list_name": "List A",
+        "no_of_entities": 5,
+        "id": 1,
+        "company_list": [
+            {
+                "id": 1,
+                "company_name": "Company A"
+            },
+            {
+                "id": 2,
+                "company_name": "Company A"
+            },
+            {
+                "id": 3,
+                "company_name": "Company A"
+            },
+            {
+                "id": 4,
+                "company_name": "Company A"
+            },
+            {
+                "id": 5,
+                "company_name": "Company A"
+            }
+        ]
+    },
+    {
+        "date": 1583307804077,
+        "list_name": "List B",
+        "no_of_entities": 5,
+        "id": 2,
+        "company_list": [
+            {
+                "id": 1,
+                "company_name": "Company B"
+            },
+            {
+                "id": 2,
+                "company_name": "Company B"
+            },
+            {
+                "id": 3,
+                "company_name": "Company B"
+            },
+            {
+                "id": 4,
+                "company_name": "Company B"
+            },
+            {
+                "id": 5,
+                "company_name": "Company B"
+            }
+        ]
+    },
+    {
+        "date": 1583307804077,
+        "list_name": "List C",
+        "no_of_entities": 5,
+        "id": 3,
+        "company_list": [
+            {
+                "id": 1,
+                "company_name": "Company C"
+            },
+            {
+                "id": 2,
+                "company_name": "Company C"
+            },
+            {
+                "id": 3,
+                "company_name": "Company C"
+            },
+            {
+                "id": 4,
+                "company_name": "Company C"
+            },
+            {
+                "id": 5,
+                "company_name": "Company C"
+            }
+        ]
+    },
+    {
+        "date": 1583307804077,
+        "list_name": "List D",
+        "no_of_entities": 5,
+        "id": 4,
+        "company_list": [
+            {
+                "id": 1,
+                "company_name": "Company D"
+            },
+            {
+                "id": 2,
+                "company_name": "Company D"
+            },
+            {
+                "id": 3,
+                "company_name": "Company D"
+            },
+            {
+                "id": 4,
+                "company_name": "Company D"
+            },
+            {
+                "id": 5,
+                "company_name": "Company D"
+            }
+        ]
+    }
+]

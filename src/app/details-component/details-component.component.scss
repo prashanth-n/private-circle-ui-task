@@ -1,0 +1,23 @@
+.details-description{
+    display: flex;
+    background-color: #f5f5f5;
+    font-size: 14px;
+    align-items: center;
+    margin: 10px;
+    height: 50px;
+    padding: 20px;
+    border-radius: 3px;
+    .add-description{
+        border: none;
+        color:#303778;
+        background: none;
+        font-weight: bold;
+    }
+}
+.company-list{
+    .company-name{
+        font-size: 0.875rem;
+        margin: 10px;
+        color: #2f7c97;
+    }
+}
